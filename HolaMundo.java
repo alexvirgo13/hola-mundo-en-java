@@ -12,6 +12,6 @@ public class HolaMundo {
 		String azul = "\033[34m";
 		
         System.out.println(naranja + "¡Hola, Mundo!");
-        System.out.println( azul + "¡Aqui estamos haciendo pruebas en GitHub!");
+        System.out.println( azul + "Aqui estamos haciendo pruebas en GitHub.");
     }
 }
